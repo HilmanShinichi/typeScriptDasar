@@ -13,3 +13,9 @@ let isMarried;
 isMarried = true;
 isMarried = false;
 console.log(isMarried);
+// Union type
+81320546022;
+"081320546022";
+let phone;
+phone = 876775577;
+phone = "088676";
